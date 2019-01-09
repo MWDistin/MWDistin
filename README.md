@@ -8,7 +8,7 @@ Du findest hier die verwendeten Bauteile, den Arduino-Code und die STL-Datei der
 - Arduino Nano (https://store.arduino.cc/arduino-nano)
 - LCD Display (https://www.ebay.de/itm/LCD-1602-Blau-HD44780-I2C-Interface-Display-Anzeige-Bildschirm-Arduino-Raspberry/162452854154?hash=item25d2f1d58a:m:mnh8EKdwXPYKo4bXblGeWAQ&var=461472352976)
 - Mini USB Kabel (https://www.ebay.de/itm/deleyCON-2m-mini-USB-2-0-Datenkabel-USB-A-Stecker-zu-Mini-B-Stecker/382051414658?epid=1837926828&hash=item58f409f282:g:ySoAAOSw3cZbUFcv:rk:6:pf:0)
-![](Verkabelung.png)
+![](MWDistin_Nano_Verkabelung.png)
 
 # Sourcecode
 -> [click](MWDistin.ino)
