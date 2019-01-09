@@ -13,5 +13,5 @@ Du findest hier die verwendeten Bauteile, den Arduino-Code und die STL-Datei der
 # Sourcecode
 -> [click](MWDistin.ino)
 
-# Sourcecode
+# Hülle
 - [Deckel](Deckel.stl)
