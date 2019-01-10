@@ -11,7 +11,7 @@ Du findest hier die verwendeten Bauteile, den Arduino-Code und die STL-Datei der
 ![](MWDistin_Nano_Verkabelung.png)
 
 # Sourcecode
--> [click](MWDistin.ino)
+[click](MWDistin.ino)
 
 # Hülle
 - [Deckel](Deckel.stl)
