@@ -16,3 +16,4 @@ Du findest hier die verwendeten Bauteile, den Arduino-Code und die STL-Datei der
 
 # Hülle
 - [Deckel](Deckel.stl)
+- [Hülle](Hulle.stl)
