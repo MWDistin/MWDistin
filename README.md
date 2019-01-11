@@ -1,6 +1,6 @@
-# MWDistin - Raumbesetzungsanzeige
+# Raumbesetzungsanzeige
 
-Die Raumbestzungsanzeige, kurz RBA oder MWDistin, gibt dir die Info wer gerade den Raum besetzt und wie viele Minuten seit der Besetzung vergangen sind. 
+Die Raumbestzungsanzeige, kurz RBA, gibt dir die Info wer gerade den Raum besetzt und wie viele Minuten seit der Besetzung vergangen sind. 
 
 Du findest hier die verwendeten Bauteile, den Arduino-Code und die STL-Datei der Hülle. Natürlich gibt es von jedem Bauteil auch günstige Varianten, welche auch für dieses Projekt verwendet wurden :)
 
